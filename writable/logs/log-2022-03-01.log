@@ -1,0 +1,841 @@
+CRITICAL - 2022-03-01 03:17:46 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(809): App\Modules\Core\Controllers\Auth->__construct()
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#5 {main}
+CRITICAL - 2022-03-01 03:18:06 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(809): App\Modules\Core\Controllers\Auth->__construct()
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#5 {main}
+CRITICAL - 2022-03-01 03:18:27 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(809): App\Modules\Core\Controllers\Auth->__construct()
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#5 {main}
+CRITICAL - 2022-03-01 03:18:48 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(809): App\Modules\Core\Controllers\Auth->__construct()
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#5 {main}
+CRITICAL - 2022-03-01 03:18:49 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(809): App\Modules\Core\Controllers\Auth->__construct()
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#5 {main}
+CRITICAL - 2022-03-01 03:18:49 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(809): App\Modules\Core\Controllers\Auth->__construct()
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#5 {main}
+CRITICAL - 2022-03-01 03:18:49 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(809): App\Modules\Core\Controllers\Auth->__construct()
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#5 {main}
+CRITICAL - 2022-03-01 03:18:50 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(809): App\Modules\Core\Controllers\Auth->__construct()
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#5 {main}
+CRITICAL - 2022-03-01 03:18:50 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(809): App\Modules\Core\Controllers\Auth->__construct()
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#5 {main}
+CRITICAL - 2022-03-01 03:24:01 --> Invalid file: auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth\\login.php')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth\\login', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('auth\\login', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('auth\\login', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:24:26 --> Invalid file: auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth\\login.php')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth\\login', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('auth\\login', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('auth\\login', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:28:55 --> Invalid file: Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Modules\\Core\\Vi...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Modules\\Core\\Vi...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('Modules\\Core\\Vi...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('Modules\\Core\\Vi...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:30:18 --> Invalid file: Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Modules\\Core\\Vi...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Modules\\Core\\Vi...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('Modules\\Core\\Vi...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('Modules\\Core\\Vi...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:34:34 --> Invalid file: Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Modules\\Core\\Vi...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Modules\\Core\\Vi...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('Modules\\Core\\Vi...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('Modules\\Core\\Vi...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:36:55 --> Invalid file: \Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('\\Modules\\Core\\V...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('\\Modules\\Core\\V...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('\\Modules\\Core\\V...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('\\Modules\\Core\\V...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:45:09 --> Invalid file: \Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('\\Modules\\Core\\V...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('\\Modules\\Core\\V...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('\\Modules\\Core\\V...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('\\Modules\\Core\\V...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:45:11 --> Invalid file: \Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('\\Modules\\Core\\V...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('\\Modules\\Core\\V...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('\\Modules\\Core\\V...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('\\Modules\\Core\\V...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:54:10 --> Invalid file: \Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('\\Modules\\Core\\V...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('\\Modules\\Core\\V...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('\\Modules\\Core\\V...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('\\Modules\\Core\\V...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:54:11 --> Invalid file: \Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('\\Modules\\Core\\V...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('\\Modules\\Core\\V...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('\\Modules\\Core\\V...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('\\Modules\\Core\\V...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:55:09 --> Invalid file: Modules/Core/Views/auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Modules/Core/Vi...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Modules/Core/Vi...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('Modules/Core/Vi...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('Modules/Core/Vi...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:55:10 --> Invalid file: Modules/Core/Views/auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Modules/Core/Vi...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Modules/Core/Vi...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('Modules/Core/Vi...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('Modules/Core/Vi...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:55:23 --> Invalid file: auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth\\login.php')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth\\login', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('auth\\login', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('auth\\login', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:55:24 --> Invalid file: auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth\\login.php')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth\\login', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('auth\\login', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('auth\\login', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:55:25 --> Invalid file: auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth\\login.php')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth\\login', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('auth\\login', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('auth\\login', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:57:59 --> Invalid file: auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth\\login.php')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth\\login', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(924): view('auth\\login', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(174): App\Modules\Core\Controllers\Auth->renderPage('auth\\login', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:58:12 --> Invalid file: auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth\\login.php')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth\\login', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(924): view('auth\\login', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(174): App\Modules\Core\Controllers\Auth->renderPage('auth\\login', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:58:56 --> Invalid file: Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Modules\\Core\\Vi...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Modules\\Core\\Vi...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): view('Modules\\Core\\Vi...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#8 {main}
+CRITICAL - 2022-03-01 03:58:57 --> Invalid file: Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Modules\\Core\\Vi...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Modules\\Core\\Vi...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): view('Modules\\Core\\Vi...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#8 {main}
+CRITICAL - 2022-03-01 03:58:58 --> Invalid file: Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Modules\\Core\\Vi...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Modules\\Core\\Vi...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): view('Modules\\Core\\Vi...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#8 {main}
+CRITICAL - 2022-03-01 03:59:21 --> Invalid file: Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Modules\\Core\\Vi...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Modules\\Core\\Vi...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('Modules\\Core\\Vi...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('Modules\\Core\\Vi...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:59:22 --> Invalid file: Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Modules\\Core\\Vi...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Modules\\Core\\Vi...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('Modules\\Core\\Vi...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('Modules\\Core\\Vi...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 03:59:22 --> Invalid file: Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Modules\\Core\\Vi...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Modules\\Core\\Vi...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('Modules\\Core\\Vi...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('Modules\\Core\\Vi...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 04:02:01 --> Invalid file: Modules\Core\Views\auth\login.php
+#0 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Modules\\Core\\Vi...')
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Modules\\Core\\Vi...', Array, true)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(923): view('Modules\\Core\\Vi...', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(173): App\Modules\Core\Controllers\Auth->renderPage('Modules\\Core\\Vi...', Array)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#9 {main}
+CRITICAL - 2022-03-01 04:09:38 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 [internal function]: App\Modules\Core\Models\IonAuthModel->deactivate(2)
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Libraries\IonAuth.php(104): call_user_func_array(Array, Array)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(514): App\Modules\Core\Libraries\IonAuth->__call('deactivate', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->deactivate(2)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#8 {main}
+CRITICAL - 2022-03-01 04:09:54 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 [internal function]: App\Modules\Core\Models\IonAuthModel->deactivate(2)
+#1 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Libraries\IonAuth.php(104): call_user_func_array(Array, Array)
+#2 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\app\Modules\Core\Controllers\Auth.php(514): App\Modules\Core\Libraries\IonAuth->__call('deactivate', Array)
+#3 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->deactivate(2)
+#4 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#5 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Windows\Desktop\Codeigniter4-HMVC-master\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Window...')
+#8 {main}
+CRITICAL - 2022-03-01 20:51:40 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `email`,...', Array, false)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\IonAuthModel.php(898): CodeIgniter\Database\BaseBuilder->get()
+#3 [internal function]: App\Modules\Core\Models\IonAuthModel->login('administrator', 'password', false)
+#4 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Libraries\IonAuth.php(104): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\Auth.php(138): App\Modules\Core\Libraries\IonAuth->__call('login', Array)
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#8 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-01 20:52:46 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `email`,...', Array, false)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\IonAuthModel.php(898): CodeIgniter\Database\BaseBuilder->get()
+#3 [internal function]: App\Modules\Core\Models\IonAuthModel->login('administrator', 'password', false)
+#4 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Libraries\IonAuth.php(104): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\Auth.php(138): App\Modules\Core\Libraries\IonAuth->__call('login', Array)
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#8 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-01 20:56:02 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `email`,...', Array, false)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\IonAuthModel.php(898): CodeIgniter\Database\BaseBuilder->get()
+#3 [internal function]: App\Modules\Core\Models\IonAuthModel->login('administrator', 'password', false)
+#4 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Libraries\IonAuth.php(104): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\Auth.php(138): App\Modules\Core\Libraries\IonAuth->__call('login', Array)
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#8 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-01 20:56:17 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `email`,...', Array, false)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\IonAuthModel.php(898): CodeIgniter\Database\BaseBuilder->get()
+#3 [internal function]: App\Modules\Core\Models\IonAuthModel->login('administrator', 'password', true)
+#4 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Libraries\IonAuth.php(104): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\Auth.php(138): App\Modules\Core\Libraries\IonAuth->__call('login', Array)
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#8 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-01 21:00:29 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `email`,...', Array, false)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\IonAuthModel.php(898): CodeIgniter\Database\BaseBuilder->get()
+#3 [internal function]: App\Modules\Core\Models\IonAuthModel->login('administrator', 'password', true)
+#4 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Libraries\IonAuth.php(104): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\Auth.php(138): App\Modules\Core\Libraries\IonAuth->__call('login', Array)
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#8 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-01 21:04:04 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `email`,...', Array, false)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\IonAuthModel.php(898): CodeIgniter\Database\BaseBuilder->get()
+#3 [internal function]: App\Modules\Core\Models\IonAuthModel->login('administrator', 'password', true)
+#4 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Libraries\IonAuth.php(104): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\Auth.php(138): App\Modules\Core\Libraries\IonAuth->__call('login', Array)
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#8 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-01 21:04:53 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `email`,...', Array, false)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\IonAuthModel.php(898): CodeIgniter\Database\BaseBuilder->get()
+#3 [internal function]: App\Modules\Core\Models\IonAuthModel->login('administrator', 'password', true)
+#4 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Libraries\IonAuth.php(104): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\Auth.php(138): App\Modules\Core\Libraries\IonAuth->__call('login', Array)
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#8 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-01 21:09:31 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `email`,...', Array, false)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\IonAuthModel.php(898): CodeIgniter\Database\BaseBuilder->get()
+#3 [internal function]: App\Modules\Core\Models\IonAuthModel->login('administrator', 'password', true)
+#4 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Libraries\IonAuth.php(104): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\Auth.php(138): App\Modules\Core\Libraries\IonAuth->__call('login', Array)
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\Auth->login()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\Auth))
+#8 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-01 21:55:17 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(713): require()
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-01 21:55:41 --> Class "App\Modules\COre\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Modules\\Cor...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Modules\\Cor...')
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(797): class_exists('\\App\\Modules\\Co...', true)
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-03-01 21:56:42 --> Class "App\Controller\BaseController" not found
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Modules\\Cor...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Modules\\Cor...')
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(797): class_exists('\\App\\Modules\\Co...', true)
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-03-01 21:59:11 --> Invalid file: permission/permission_list.php
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('permission/perm...')
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('permission/perm...', Array, true)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): view('permission/perm...')
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:01:03 --> Invalid file: auth/permission/permission_list.php
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/permission...')
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth/permission...', Array, true)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): view('auth/permission...')
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:01:44 --> Invalid file: /auth/permission/permission_list.php
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/auth/permissio...')
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('/auth/permissio...', Array, true)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): view('/auth/permissio...')
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:02:07 --> Invalid file: permission/permission_list.php
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('permission/perm...')
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('permission/perm...', Array, true)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): view('permission/perm...')
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:06:26 --> Invalid file: permission/permission_list.php
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('permission/perm...')
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('permission/perm...', Array, true)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): view('permission/perm...')
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:07:03 --> Invalid file: permission/permission_list.php
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('permission/perm...')
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('permission/perm...', Array, true)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): view('permission/perm...')
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:07:05 --> Invalid file: permission/permission_list.php
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('permission/perm...')
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('permission/perm...', Array, true)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): view('permission/perm...')
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:10:01 --> Invalid file: permission/permission_list.php
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('permission/perm...')
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('permission/perm...', Array, true)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): view('permission/perm...')
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:11:16 --> Invalid file: /App/Views/permission/permission_list.php
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/App/Views/perm...')
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('/App/Views/perm...', Array, true)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): view('/App/Views/perm...')
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:11:34 --> Invalid file: /App/Modules/Views/permission/permission_list.php
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/App/Modules/Vi...')
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('/App/Modules/Vi...', Array, true)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): view('/App/Modules/Vi...')
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:14:12 --> Invalid file: /App/Modules/Core/Views/permission/permission_list.php
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/App/Modules/Co...')
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('/App/Modules/Co...', Array, true)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): view('/App/Modules/Co...')
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:14:51 --> Invalid file: /App/Modules/Core/Views/Permission/permission_list.php
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/App/Modules/Co...')
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('/App/Modules/Co...', Array, true)
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): view('/App/Modules/Co...')
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:45:33 --> Class "Codeigniter\Model" not found
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Modules\\Cor...')
+#3 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(9): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Modules\\Cor...')
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-03-01 22:54:27 --> Undefined variable $permissionGroupiModel
+#0 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-01 22:54:53 --> Undefined variable $permissionGroupModel
+#0 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-01 22:54:53 --> Undefined variable $permissionGroupModel
+#0 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-01 22:56:46 --> Undefined variable $permissionGroupModel
+#0 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11)
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-01 22:57:36 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-01 22:59:06 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-01 23:00:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-01 23:10:42 --> Call to undefined method App\Modules\Core\Models\PermissionModel::getPermissonAll
+#0 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): CodeIgniter\Model->__call('getPermissonAll', Array)
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-01 23:12:24 --> Call to undefined method App\Modules\Core\Models\PermissionModel::getPermissonGroupAll
+#0 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): CodeIgniter\Model->__call('getPermissonGro...', Array)
+#1 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#2 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-01 23:12:52 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:19:06 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:19:08 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:19:10 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:22:58 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:22:59 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:23:00 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:23:00 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:23:01 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:23:01 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:23:01 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:23:01 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:24:29 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:24:30 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 23:24:32 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Models\PermissionModel.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\test-hmvc\app\Modules\Core\Controllers\PermissionList.php(13): App\Modules\Core\Models\PermissionModel->getPermissionGroupAll()
+#3 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Modules\Core\Controllers\PermissionList->index()
+#4 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Modules\Core\Controllers\PermissionList))
+#5 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\test-hmvc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\test-hmvc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
