@@ -1,6 +1,5 @@
 <?php
 namespace App\Modules\Core\Models;
-use App\Controllers\BaseController;
 use CodeIgniter\Model;
 
 class GroupsModel extends Model{

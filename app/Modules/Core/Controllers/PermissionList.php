@@ -20,4 +20,10 @@ class PermissionList extends BaseController
         
         
     }
+    public function DeletePermission($id)
+    {
+        $this->permissionGroupModel->delete($id);
+        return redirect()->to(base_url('auth/permission_list'));
+    }
+    
 }

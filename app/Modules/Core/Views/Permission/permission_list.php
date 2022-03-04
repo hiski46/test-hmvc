@@ -15,8 +15,8 @@
                     <td><?=$permission['id']?></td>
                     <td><?=$permission['group_id']?></td>
                     <td><?=$permission['permission_id']?></td>
-                    <td><a href="">edit</a></td>
-                    <td><a href="">hapus</a></td>
+                    <td><a href="permission/edit_permission/<?= $permission['id']?>">edit</a></td>
+                    <td><a href="permission/delete_permission/<?= $permission['id']?>">hapus</a></td>
                 </tr>
             <?php }?>
         </tbody>

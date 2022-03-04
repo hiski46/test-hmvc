@@ -22,4 +22,7 @@ $routes->group('auth', ['namespace' => 'App\Modules\Core\Controllers'], function
 	$routes->get('permission_list', 'PermissionList::index');
 	$routes->add('permission/add_permission', 'AddPermission::index');
 	$routes->add('permission/create_permission', 'AddPermission::CreatePermission');
+	$routes->get('permission/delete_permission/(:num)', 'PermissionList::DeletePermission/$1');
+	$routes->add('permission/edit_permission/(:num)', 'AddPermission::EditPermission/$1');
+	$routes->add('permission/edit_permission/update_permission/(:num)', 'AddPermission::UpdatePermission/$1');
 });

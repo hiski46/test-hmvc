@@ -8,8 +8,9 @@ class GroupPermissionModel extends Model{
     protected $primaryKey = 'id';
     protected $useAutoIncrement = true;
     protected $returnType = 'array';
-    protected $allowedFields = ['group_id', 'permissions_id'];
+    protected $allowedFields = ['group_id', 'permission_id'];
     protected $insertId = 0;
+    // protected $useSoftDeletes = true;
 
     // protected $useTimestamps = false;
 
